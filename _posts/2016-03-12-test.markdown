@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "test"
+date:   2016-03-12 14:40:00
+categories: Uncategories
+---
+
+Hello! this is my first post using [Jekyll static page] and hosted on [Github]!
+
+[Jekyll static page]: http://jekyllrb.com/
+[github]: https://github.com/
