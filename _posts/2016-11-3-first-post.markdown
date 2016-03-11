@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
+title:  "My first post on using jekyll"
+date:   2016-11-3 11:15:00
 categories: Thriller Comedy Horror
 ---
 
