@@ -230,11 +230,10 @@ h6 {
 }
 
 a {
-    color: #4A4A4A;
+    color: #e74c3c;
     -webkit-transition: all .5s;
     transition: all .5s;
     text-decoration: none;
-    border-bottom: 2px solid #4A4A4A;
 }
 @font-face {
   font-family: "Roboto";
@@ -271,9 +270,7 @@ a {
   font-weight: 700;
 }
 a:hover {
-    color: #fff;
-    border-bottom-color: 2px solid #4A4A4A;
-    background-color: #4A4A4A;
+    color: #363636;
 }
 
 p, ul, ol, dl {
