@@ -1,6 +1,6 @@
 name: My Blog
-description: Blogging about stuffs
-meta_description: "My Blog, Blogging about stuffs"
+description: Personal Blog
+meta_description: "My Blog, Personal blog"
 
 markdown: kramdown
 highlighter: pygments
