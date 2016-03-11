@@ -1,17 +1,32 @@
-name: My Blog
-description: Personal Blog
-meta_description: "My Blog, Personal blog"
+# Site settings
+title: "Muhammad Azka"
+email: me@mazkaaa.net
+description: "Blogging stuffs"
+baseurl: ""
+url: "http://mazkaaa.net"
+title_description: "Blogging stuffs"
+title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "UA-73144591-1"
+disqus_account: mazkaaa
+github_repository: https://github.com/aXSSor
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
 
+# Social usernames/URLs
+github_username:  aXSSor
+google_plus_link: https://plus.google.com/u/0/101975822360964354339/posts
+stackoverflow_link: http://stackoverflow.com/users/6049150/muhammad-azka
+
+# Footer
+footer_left: "Modified with <i class=\"fa fa-heart\"></i> by <a href=\"https://github.com/aXSSor\">Azka</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
 markdown: kramdown
-highlighter: pygments
-highlighter: rouge
-logo: false
-paginate: 15
-baseurl: /
-domain_name: 'http://blog.mazkaaa.net/'
-google_analytics: 'UA-73144591-1'
-gems: [jekyll-paginate]
 
-# Details for the RSS feed generator
-url:            'http://blog.mazkaaa.net/'
-author:         'Muhammad Azka'
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]

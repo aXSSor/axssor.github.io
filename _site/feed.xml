@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description>Personal Blog</description>
-    <link>http://blog.mazkaaa.net///</link>
-    <atom:link href="http://blog.mazkaaa.net///feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Mar 2016 14:03:25 +0700</pubDate>
-    <lastBuildDate>Fri, 11 Mar 2016 14:03:25 +0700</lastBuildDate>
+    <title>Muhammad Azka</title>
+    <description>Blogging stuffs</description>
+    <link>http://mazkaaa.net/</link>
+    <atom:link href="http://mazkaaa.net/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 11 Mar 2016 16:30:53 +0700</pubDate>
+    <lastBuildDate>Fri, 11 Mar 2016 16:30:53 +0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>First Post</title>
-        <description>&lt;p&gt;Hello! this is my first post using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll static page&lt;/a&gt; and hosted on &lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;!&lt;/p&gt;
+        <description>&lt;p&gt;This is my first post using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll static page&lt;/a&gt; and hosted on &lt;a href=&quot;https://github.com/aXSSor/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 11 Mar 2016 08:13:00 +0700</pubDate>
-        <link>http://blog.mazkaaa.net///uncategories/2016/03/11/first-post.html</link>
-        <guid isPermaLink="true">http://blog.mazkaaa.net///uncategories/2016/03/11/first-post.html</guid>
+        <pubDate>Fri, 11 Mar 2016 00:00:00 +0700</pubDate>
+        <link>http://mazkaaa.net/2016/03/11/first-post/</link>
+        <guid isPermaLink="true">http://mazkaaa.net/2016/03/11/first-post/</guid>
         
-        
-        <category>Uncategories</category>
         
       </item>
     
